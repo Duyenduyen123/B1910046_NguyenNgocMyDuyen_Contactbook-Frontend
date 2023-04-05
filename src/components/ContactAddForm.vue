@@ -1,6 +1,6 @@
 <script>
-import * as yup from 'yup'
 import { Form, Field, ErrorMessage } from 'vee-validate';
+import * as yup from 'yup'
 
 export default {
     components: {
@@ -109,7 +109,6 @@ export default {
         </div>
     </Form>
 </template>
-
 <style scoped>
 @import '@/assets/form.css';
 </style>
